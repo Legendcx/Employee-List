@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Project : Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Check The Live Website ➡️ [Live Website](https://legendcx-employee-list.netlify.app/)
 
-## Available Scripts
+## Visualization of the Website
 
-In the project directory, you can run:
+![Form](./EmployeeList.gif)
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Project aims to create an image gallery app using React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Learning Outcomes
 
-### `npm test`
+At the end of the project, you will be able to;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- improve coding skills within HTML & CSS & JS & ReactJS.
 
-### `npm run build`
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Problem Statement
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Skeleton
 
-### `npm run eject`
+```
+Image Gellery Project(folder)
+|
+|----README.md
+├── public
+│     └── index.html
+├── src
+│    ├── assests
+│    │       └── data.js
+│    ├── components
+│    │       ├── Button
+│    │       │      ├── Button.css
+│    │       │      ├── Button.jsx
+│    │       ├── Header
+│    │       │      ├── Header.css
+│    │       │      ├── Header.jsx
+│    │       ├── Main
+│    │              ├── Main.css
+│    │              ├── Main.jsx
+│    │      
+│    ├── App.css
+│    ├── App.js
+│    ├── index.css
+│    ├── index.js
+└── package.json
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Overview
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I mastered HTML & CSS & JS & ReactJS features in this project.
+You can see the visual representation of the website above.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Notes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Step 1: Create React App using `npx create-react-app image-gallery`
 
-## Learn More
+- Step 2: For images you can use [Images](./src/assests/data.js).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Step 3: Push your application into your own public repo on Github
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Step 4: Add project gif to your project and README.md file.
 
-### Code Splitting
+## Resources
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 🔥 You can use [`data.js`](./src/assests/data.js) for your own work.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Support
+Open an Issue, I will check it a soon as possible 👀
+Don't forget to start the repo ⭐
+# <center> ⌛ Happy Coding ✍ </center>
