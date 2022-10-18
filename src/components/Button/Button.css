@@ -1,0 +1,15 @@
+.prev{
+    margin: 10px;
+    padding: 8px;
+    background-color: rgb(228, 183, 35);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
+.next{
+    margin: 10px;
+    padding: 8px;
+    font-weight: 900;
+    background-color: rgb(228, 183, 35);
+    border-radius: 8px;
+}
